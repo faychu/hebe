@@ -1,0 +1,8 @@
+tensor2vec
+*.swp
+data/* 
+output/*
+pair_distance
+distance
+*.txt*
+.nfs*
